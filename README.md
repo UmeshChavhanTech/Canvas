@@ -1,25 +1,22 @@
-# Welcome to your Lovable project
+# Welcome to the Canvas Project
 
-## Project info
+## 🔗 Live Site
 
-**URL**: https://lovable.dev/projects/f23826cd-6049-4e0a-b25b-409449e1663c
+**URL**: [https://canvas-pied-nu.vercel.app/](https://canvas-pied-nu.vercel.app/)
 
-## How can I edit this code?
+## 📂 Project Overview
 
-There are several ways of editing your application.
+This is a modern web project built using JavaScript technologies. It is deployed on **Vercel** and the source code is available on **GitHub**.
 
-**Use Lovable**
+## 🛠 How to Use This Project
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f23826cd-6049-4e0a-b25b-409449e1663c) and start prompting.
+You can edit and run this project using any method you're comfortable with:
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+### ✅ Option 1: Use a Code Editor (like VS Code)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/UmeshChavhanTech/Canvas.git
+   cd Canvas
